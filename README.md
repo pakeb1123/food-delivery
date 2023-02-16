@@ -17,10 +17,12 @@
 
 
 ##### Compensation / Correlation
+##### 오더주문 실행시 오더정보 kafka에 적재, 오더주문 취소시 오더정보를 삭제한다.
+##### 오더주문
 <img align="left" src="https://user-images.githubusercontent.com/26244507/219295915-345419e6-e472-4937-b426-3b2706289b8f.jpg">
 
-<img align="left" src="https://user-images.githubusercontent.com/26244507/219295915-345419e6-e472-4937-b426-3b2706289b8f.jpg">
-
+##### 오더취소
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219295933-22ae8f34-8ffd-459e-a0a9-9654ef238e42.jpg">
 
 ### Microservice Orchestration
 ##### Deploy to EKS Cluster
