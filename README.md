@@ -1,5 +1,5 @@
 # LV3 통합실습 및 결과
-
+* 보안정책상 이미지 첨부가 힘들어 모바일 사진으로 찍어 업로드 합니다
 ### Microservice Implementation
 ##### Saga (Pub / Sub)
 ##### CQRS
@@ -7,6 +7,7 @@
 
 ### Microservice Orchestration
 ##### Deploy to EKS Cluster
+https://user-images.githubusercontent.com/26244507/219284245-c921ed89-930a-4b1b-b9f4-9665fa2b54b9.jpg
 ##### Gateway Service Router 설치
 ##### Autoscale (HPA)
 
