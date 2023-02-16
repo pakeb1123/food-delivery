@@ -1,5 +1,14 @@
 # LV3 통합실습 및 결과
 
+### Microservice Implementation
+#### Saga (Pub / Sub)
+#### CQRS
+#### Compensation / Correlation
+
+###Microservice Orchestration
+#### Deploy to EKS Cluster
+#### Gateway Service Router 설치
+#### Autoscale (HPA)
 
 
 # 
