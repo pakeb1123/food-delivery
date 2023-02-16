@@ -99,7 +99,7 @@
             this.values = temp.data._embedded.payments;
             
             this.newValue = {
-                'orderid': '',
+                'orderid': 0,
                 'price': '',
             }
         },

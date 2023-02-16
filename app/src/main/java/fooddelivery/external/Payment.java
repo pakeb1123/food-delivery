@@ -6,7 +6,7 @@ import java.util.Date;
 public class Payment {
 
     private Long id;
-    private String orderid;
+    private Long orderid;
     private String price;
 }
 

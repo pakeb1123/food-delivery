@@ -9,8 +9,8 @@ import java.util.*;
 public class Paid extends AbstractEvent {
 
     private Long id;
-    private String orderid;
     private String price;
+    private Long orderid;
 }
 
 

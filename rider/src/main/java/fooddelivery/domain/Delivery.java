@@ -36,7 +36,7 @@ public class Delivery  {
     
     
     
-    private String orderid;
+    private Long orderid;
 
     @PostPersist
     public void onPostPersist(){

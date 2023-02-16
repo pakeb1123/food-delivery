@@ -14,7 +14,7 @@ public class Accepted extends AbstractEvent {
     private String food;
     private String address;
     private String status;
-    private String orderid;
+    private Long orderid;
 
     public Accepted(StoreOrder aggregate){
         super(aggregate);

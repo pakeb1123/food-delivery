@@ -20,7 +20,7 @@
             <String label="Food" v-model="value.food" :editMode="editMode"/>
             <String label="Address" v-model="value.address" :editMode="editMode"/>
             <String label="Status" v-model="value.status" :editMode="editMode"/>
-            <String label="Orderid" v-model="value.orderid" :editMode="editMode"/>
+            <Number label="Orderid" v-model="value.orderid" :editMode="editMode"/>
         </v-card-text>
 
         <v-card-actions>

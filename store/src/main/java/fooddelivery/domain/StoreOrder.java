@@ -49,7 +49,7 @@ public class StoreOrder  {
     
     
     
-    private String orderid;
+    private Long orderid;
 
     @PostPersist
     public void onPostPersist(){

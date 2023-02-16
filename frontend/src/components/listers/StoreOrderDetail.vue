@@ -15,7 +15,7 @@
                 <String label="Status" v-model="item.status" :editMode="editMode" @change="change" />
             </div>
             <div>
-                <String label="Orderid" v-model="item.orderid" :editMode="editMode" @change="change" />
+                <Number label="Orderid" v-model="item.orderid" :editMode="editMode" @change="change" />
             </div>
         </v-card-text>
 
