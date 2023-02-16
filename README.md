@@ -15,7 +15,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/26244507/219294253-60f02cb2-a4d0-47d5-bcb7-c8e5a4e6bde7.jpg">
 ##### 주문시 정보를 생성한고, 각 단계 진행시 Status상태를 업데이트 합니다
 
+
 ##### Compensation / Correlation
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219295915-345419e6-e472-4937-b426-3b2706289b8f.jpg">
+
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219295915-345419e6-e472-4937-b426-3b2706289b8f.jpg">
+
 
 ### Microservice Orchestration
 ##### Deploy to EKS Cluster
