@@ -7,7 +7,7 @@
 
 ### Microservice Orchestration
 ##### Deploy to EKS Cluster
-<img align="left" src="[./image.png](https://user-images.githubusercontent.com/26244507/219284245-c921ed89-930a-4b1b-b9f4-9665fa2b54b9.jpg)">
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219284245-c921ed89-930a-4b1b-b9f4-9665fa2b54b9.jpg">
 
 ##### Gateway Service Router 설치
 ##### Autoscale (HPA)
