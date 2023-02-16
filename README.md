@@ -11,7 +11,10 @@
 
 ##### Gateway Service Router 설치
 <img align="left" src="https://user-images.githubusercontent.com/26244507/219285037-28a4e3e5-6d49-4df3-9d34-15e49ded452a.jpg">
+
 ##### Autoscale (HPA)
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219285801-e176b84c-442f-4981-a79f-8b2b0abe7129.jpg">
+<img align="left" src="https://user-images.githubusercontent.com/26244507/219285859-771acaff-320f-42b9-9486-2ce021992aed.jpg">
 
 
 # 
